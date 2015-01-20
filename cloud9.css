@@ -31,13 +31,14 @@ h1 {float:left;
     height: 200px;
     width: 130px;
     padding: 15px;
-    background-color: #ccc;
+    background-color: rgba(239, 230, 230, 0.3);
     border: 1px solid #ababab;
     text-align: center;
     margin: 1em;
-    border-radius: 10px;
+    border-radius: 0px;
     box-shadow: 1px 1px 0 rgb(255,255,255);
     transition: all .3s ease;
+}
 }
 
 .card:hover {
