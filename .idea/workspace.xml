@@ -24,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cloud9.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud9.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PORTFOLIO_SITE/startbootstrap-freelancer-1.0.1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8596491" vertical-offset="751" max-vertical-offset="1380">
-              <caret line="86" column="7" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cloud9.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud9.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.6698565" vertical-offset="4545" max-vertical-offset="6360">
+              <caret line="331" column="121" selection-start-line="331" selection-start-column="121" selection-end-line="331" selection-end-column="121" />
               <folding />
             </state>
           </provider>
@@ -106,6 +96,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PORTFOLIO_SITE/startbootstrap-freelancer-1.0.1" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -197,18 +188,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cloud9.css">
+    <entry file="file://$PROJECT_DIR$/cloud9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.5502392" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud9.html">
+    <entry file="file://$PROJECT_DIR$/cloud9.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8596491" vertical-offset="751" max-vertical-offset="1380">
-          <caret line="86" column="7" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.921659" vertical-offset="0" max-vertical-offset="1110">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PORTFOLIO_SITE/startbootstrap-freelancer-1.0.1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6698565" vertical-offset="4545" max-vertical-offset="6360">
+          <caret line="331" column="121" selection-start-line="331" selection-start-column="121" selection-end-line="331" selection-end-column="121" />
           <folding />
         </state>
       </provider>

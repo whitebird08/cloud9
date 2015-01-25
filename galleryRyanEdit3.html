@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rogue's Gallery</title>
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,100italic' rel='stylesheet' type='text/css'>
+
+</head>
+<style>
+    body {
+    font-family: sans-serif;
+    background: url(faces/cloudPic.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 120px;
+    line-height: 0;
+    position: relative;
+
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+}
+
+.frame {
+    position: relative;
+    min-height: 600px;
+    background-color: transparent;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    height: 200px;
+    width: 130px;
+    padding: 5px;
+    background-color: rgba(239, 230, 230, 0.3);
+    border: 1px solid #ababab;
+    text-align: center;
+    margin: 1em;
+    border-radius: 0px;
+   box-shadow: 1px 1px 0 rgb(255,255,255);
+    transition: all .3s ease;
+}
+
+.card:hover {
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.75);
+    transform: scale(1.1) rotate(5deg);
+    cursor: pointer;
+}
+
+
+
+img {
+    border-radius: 0px;
+    <!--box-shadow:2px 2px 0px rgba(255, 255, 255, .7) ;-->
+    transition: all .3s ease;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}
+
+.name {
+    white-space: nowrap;
+    display: block;
+    margin-top: 1.5em;
+    border-top: 2px groove #fff;
+    padding-top: 1.2em;
+
+}
+</style>
+<body>
+<h1>
+    your cloud nine team
+</h1>
+
+
+<div class="frame">
+
+    <div class="card"><img src="faces/aaron.jpg" alt=""/><a href="https://twitter.com/whitebird08"/><span class="name">Aaron</span></div>
+    <div class="card"><img src="faces/andy.jpg" alt=""/><span class="name">Andy</span></div>
+    <div class="card"><img src="faces/donna.jpg" alt=""/><span class="name">Donna</span></div>
+    <div class="card"><img src="faces/greg.jpg" alt=""/><span class="name">Greg</span></div>
+    <div class="card"><img src="faces/jake.jpg" alt=""/><span class="name">Jake</span></div>
+    <div class="card"><img src="faces/kim.jpg" alt=""/><span class="name">Kim</span></div>
+    <div class="card"><img src="faces/mike.jpg" alt=""/><span class="name">Mike</span></div>
+    <div class="card"><img src="faces/nova.jpg" alt=""/><span class="name">Nova</span></div>
+    <div class="card"><img src="faces/pepe.jpg" alt=""/><span class="name">Pepe</span></div>
+    <div class="card"><img src="faces/sharon.jpg" alt=""/><span class="name">Sharon</span></div>
+</div>
+</body>
+</html>
