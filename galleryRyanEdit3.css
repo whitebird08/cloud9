@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    background: url(faces/cloudPic.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {float:left;
+    text-align: left;
+    font-weight: 100;
+    font-size: 550px;
+    line-height: 0;
+    position: absolute;
+    top: -72px;
+    left: -121px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+}
+
+.frame {
+    position: relative;
+    min-height: 600px;
+    background-color: transparent;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    height: 200px;
+    width: 130px;
+    padding: 15px;
+    background-color: rgba(239, 230, 230, 0.3);
+    border: 1px solid #ababab;
+    text-align: center;
+    margin: 1em;
+    border-radius: 0px;
+    box-shadow: 1px 1px 0 rgb(255,255,255);
+    transition: all .3s ease;
+}
+
+.card:hover {
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.75);
+    transform: scale(1.1) rotate(5deg);
+    cursor: pointer;
+}
+
+
+
+img {
+    border-radius: 0px;
+    box-shadow:2px 2px 0px rgba(255, 255, 255, .7) ;
+    transition: all .3s ease;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}
+
+.name {
+    white-space: nowrap;
+    display: block;
+    margin-top: 1.5em;
+    border-top: 2px groove #fff;
+    padding-top: 1.2em;
+
+}
